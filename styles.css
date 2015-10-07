@@ -1,0 +1,41 @@
+#square{
+  background-color: pink;
+}
+
+.box{
+  width: 500px;
+  height: 100px;
+  border: 1px solid black;
+  margin-bottom: 5px;
+  margin-left: 50px;
+
+}
+
+.box2 {
+  padding: 50px 25px 30px 10px;
+  border: 10px dotted blue;
+  margin: 50px;
+}
+
+
+
+div p{
+  background-color:orange;
+}
+
+.box2 p{
+  background-color: purple:inherit;
+  padding: 30px;
+}
+
+div {
+  background-color:green;
+}
+
+#rect{
+  background-color: black;
+}
+
+.box3{
+  background-color: brown;
+}
